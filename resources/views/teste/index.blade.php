@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista de Registros</title>
+    <title>Lista de Registros de usuários/a</title>
     <!-- Adicione o link para o Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="container mt-5">
 
-    <h1 class="mb-4">Lista de Registros</h1>
+    <h1 class="mb-4">Lista de Registros de usuários/a</h1>
 
     @if(session('success'))
         <div class="alert alert-success">{{ session('success') }}</div>
