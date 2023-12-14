@@ -1,0 +1,49 @@
+[33mcommit f7bf9c6b85c21e319986db55314dc16bbff98b3f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sergio Manoel <se_manoel@hotmail.com>
+Date:   Wed Dec 13 22:50:40 2023 -0300
+
+    Adicionar .gitignore
+
+[33mcommit 1729f591c8c8a969615e8cc7ad4c951eea490ad2[m
+Author: sergioalveslopes <se_manoel@hotmail.com>
+Date:   Mon Dec 11 22:55:44 2023 -0300
+
+    Mensagem do commit
+
+[33mcommit 14c49ba4c9ffd8024304c53650011592adb3eacd[m
+Author: sergioalvespaeslopes <71602748+sergioalvespaeslopes@users.noreply.github.com>
+Date:   Mon Dec 11 22:42:37 2023 -0300
+
+    Update index.blade.php
+    
+    teste
+
+[33mcommit fbe184d91796c80e39142f7b60e5c653f0b70cd2[m
+Author: sergioalveslopes <se_manoel@hotmail.com>
+Date:   Mon Dec 11 22:41:12 2023 -0300
+
+    Mensagem do commit
+
+[33mcommit e6a8cf6e5e0f6ebfa1304a2b8c243f1cf9c0262c[m[33m ([m[1;31morigin/teste[m[33m)[m
+Author: sergioalvespaeslopes <71602748+sergioalvespaeslopes@users.noreply.github.com>
+Date:   Mon Dec 11 22:22:40 2023 -0300
+
+    Update index.blade.php
+
+[33mcommit d9823cb153369c3fff2817ea6edbfd5fd660bc10[m
+Author: sergioalveslopes <se_manoel@hotmail.com>
+Date:   Mon Dec 11 22:14:38 2023 -0300
+
+    Mudança de titulo
+
+[33mcommit 63f438612f337ca9d9f890637bf7a43d5c58f578[m
+Author: sergioalveslopes <se_manoel@hotmail.com>
+Date:   Mon Dec 11 21:44:12 2023 -0300
+
+    first commit
+
+[33mcommit c77bbea5f00f17a4e451835fd870bd888d5e92d0[m
+Author: sergioalveslopes <se_manoel@hotmail.com>
+Date:   Mon Dec 11 21:31:21 2023 -0300
+
+    teste
