@@ -11,7 +11,11 @@
 </head>
 <body class="container mt-5">
 
+<<<<<<< HEAD
     <h1 class="mb-4">Lista de Registrosd</h1>
+=======
+    <h1 class="mb-4">Lista registros</h1>
+>>>>>>> main
 
     @if(session('success'))
         <div class="alert alert-success">{{ session('success') }}</div>

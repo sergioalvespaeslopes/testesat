@@ -10,7 +10,7 @@
 </head>
 <body class="container mt-5">
 
-    <h1 class="mb-4">Editar Registro</h1>
+    <h1 class="mb-4">Editar registros</h1>
 
     @if(session('success'))
         <div class="alert alert-success">{{ session('success') }}</div>
