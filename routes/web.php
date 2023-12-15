@@ -24,6 +24,11 @@ use App\Http\Controllers\ClienteController;
 use App\Http\Controllers\TesteController;
 use App\Http\Controllers\ApiTesteController;
 
+
+Route::get('/agendamentos', 'AgendamentosController@index');
+
+
+
 Route::prefix('testes')->group(function () {
     Route::get('/', [ApiTesteController::class, 'index']);
     Route::post('/', [ApiTesteController::class, 'store']);
